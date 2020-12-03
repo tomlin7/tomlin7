@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+  <strong>I'M BILLY</strong>
+</h1>
+<p align="center">
+  <q>
+    <i>
+      pls, Don't bully me
+    </i>
+  </q>
+</p>
+<h3 align="center">
+  Student • GameDev • Youtuber
+</h3>
 
-<!--
-**billydevyt/billydevyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://billy-s-basement.github.io">Basement</a> •
+    <a href="https://twitter.com/Billy82731353o">twitter</a> •
+    <a href="https://github.com/billydevyt/">github</a> •
+    <a href="https://github.com/billydevyt/RoboBilly">RoboBilly</a> 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=billydevyt&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="billy" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=billydevyt&show_icons=true&locale=en&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="billy" />
+</p>
