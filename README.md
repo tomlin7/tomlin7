@@ -13,7 +13,6 @@
 </h3>
 
 <p align="center">
-    <a href="https://billy-s-basement.github.io">Basement</a> •
     <a href="https://twitter.com/Billy82731353o">twitter</a> •
     <a href="https://github.com/billydevyt/">github</a> •
     <a href="https://github.com/billydevyt/RoboBilly">RoboBilly</a> 
