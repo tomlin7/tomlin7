@@ -13,9 +13,9 @@
 </h3>
 
 <p align="center">
-    <a href="https://twitter.com/Billy82731353o">twitter</a> •
-    <a href="https://github.com/billydevyt/">github</a> •
-    <a href="https://github.com/billydevyt/RoboBilly">RoboBilly</a> 
+    <a href="https://twitter.com/billyeatcookies">twitter</a> •
+    <a href="https://github.com/billyeatcookies/">github</a> •
+    <a href="https://billyeatcookies.github.io">Home</a> 
 </p>
 
 ---
