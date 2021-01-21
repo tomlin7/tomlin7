@@ -1,15 +1,8 @@
 <h1 align="center">
   <strong>I'M BILLY</strong>
 </h1>
-<p align="center">
-  <q>
-    <i>
-      pls, Don't bully me
-    </i>
-  </q>
-</p>
 <h3 align="center">
-  Student • GameDev • Youtuber
+  Student • GameDev
 </h3>
 
 <p align="center">
