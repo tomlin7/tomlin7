@@ -6,5 +6,3 @@
 </h3>
 
 <a href="https://twitter.com/billyeatcookies">@billyeatcookies</a>
-
-![billy's github stats](https://github-readme-stats.vercel.app/api?username=billyeatcookies&theme=nightowl&show_icons=true)
