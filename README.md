@@ -2,6 +2,6 @@
 
 hello, my name is Billy! 👩🏻‍💻
 
-- i'm a student learning computer science.
+- i'm a highschool student, learning computer science.
 - ask me about python, unity, super cool cooking tricks, and cookies.
 - my pronouns are **he/him**.
