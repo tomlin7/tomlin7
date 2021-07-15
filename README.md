@@ -1,8 +1,10 @@
 ---
-
-<img alt="Photo of cherry blossoms." src="https://res.cloudinary.com/jendowns/image/upload/v1598540379/flowers_wcwnkq.jpg" />
-
-## hello, my name is Billy! 👩🏻‍💻
+<p align="center">
+  <img alt="billy." src="https://user-images.githubusercontent.com/70792552/125780850-8a79d693-8c77-4e8b-b7a9-ec6c5e0d29ac.png" />
+  <!--<img alt="Photo of cherry blossoms." src="https://res.cloudinary.com/jendowns/image/upload/v1598540379/flowers_wcwnkq.jpg" />-->
+</p>
+  
+## hello, there!
 
 - i'm a highschool student, learning computer science.
 - ask me about python, unity, super cool cooking tricks, and cookies.
