@@ -28,7 +28,7 @@
       Hello there! I'm billy, a lil artist, gamedev and programmer, sometimes I draw people uwu 
       (tbh they turns out pretty bad and stupid and people start yelling at me for doing such a horrible thing to them xd)
       <br><br>
-      Not much but I do watch a lil bit anime, mostly romatic and the sad ones that makes you cry like hell. The favorite being the <a href="https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream_of_a_Dreaming_Girl">bunny girl senpai</a>.
+      Not much but I do watch a lil bit anime, mostly romatic and the sad ones that makes you cry like hell. The favorite being <a href="https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream_of_a_Dreaming_Girl">bunny girl senpai</a>.
       <br><br>
       Most of the time my headphones are on my head, I listen to Pop. nope, no hiphop, not my taste.
       Favoriteistist artists being Justin Bieber and Troye Sivan uwu.
