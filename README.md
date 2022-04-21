@@ -5,9 +5,9 @@
 <details align="center">
 <summary>🍬🍭🥤</summary>
     <br><br>
-    <img alt="Python" src="https://img.shields.io/badge/Spotify-d92959.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="C++" src="https://img.shields.io/badge/c++-414574.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="C#" src="https://img.shields.io/badge/c%23-d92959.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-d92959.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-414574.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt="C#" src="https://img.shields.io/badge/C%23-d92959.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <br><br>
     <img src="https://user-images.githubusercontent.com/70792552/164445125-66b2e14b-7c4e-4ddc-8d3e-c40ee6cc8d4c.gif" align="right" width="500px">
     <img src='https://data.whicdn.com/images/354171585/original.gif' width='175px'>
