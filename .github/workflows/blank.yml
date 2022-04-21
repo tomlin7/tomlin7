@@ -24,9 +24,11 @@ jobs:
         uses: Platane/snk/svg-only@v2.0.0-rc.1
         with:
           github_user_name: ${{ github.repository_owner }}
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=434061&color_dots=#D95378,#D9476F,#D93B66,#D93260,#d92959
-            dist/github-contribution-grid-snake.gif?color_snake=434061&color_dots=#D95378,#D9476F,#D93B66,#D93260,#d92959
+            dist/github-contribution-grid-snake.svg?color_snake=#434061&color_dots=#00000000,#D9476F,#D93B66,#D93260,#d92959
+            dist/github-contribution-grid-snake.gif?color_snake=#434061&color_dots=#00000000,#D9476F,#D93B66,#D93260,#d92959
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
