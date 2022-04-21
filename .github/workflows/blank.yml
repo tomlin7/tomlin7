@@ -36,8 +36,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-default.gif
             dist/github-contribution-grid-snake-default.svg
-            dist/github-contribution-grid-snake.gif?color_snake=#434061&color_dots=#00000000,#C92E58,#d92959,#BA224B,#A81039
-            dist/github-contribution-grid-snake.svg?color_snake=#434061&color_dots=#00000000,#C92E58,#d92959,#BA224B,#A81039
+            dist/github-contribution-grid-snake.gif?color_snake=#434061&color_dots=#00000000,#A81039,#BA224B,#d92959,#C92E58
+            dist/github-contribution-grid-snake.svg?color_snake=#434061&color_dots=#00000000,#A81039,#BA224B,#d92959,#C92E58
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
