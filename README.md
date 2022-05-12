@@ -18,7 +18,7 @@
       <br><br>
       Not much but I do watch a lil bit anime, mostly romatic and the sad ones that makes you cry alot. The favorite being <a href="https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream_of_a_Dreaming_Girl">bunny girl senpai</a>.
       <br><br>
-      Most of the time I'm vibing to music, I listen to Pop. And nope, no hiphop, not my taste.
+      Most of the time I listen to Pop. Been liking kpop recently.
       Favoriteistist artists being Justin Bieber, Tate McRae and Troye Sivan.
     </p>
     <br>
