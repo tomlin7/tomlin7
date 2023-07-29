@@ -15,11 +15,10 @@ jobs:
 
       # Generates the snake  
       - uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: billyeatcookies
           outputs: |
-            dist/github-contribution-grid-snake.gif?color_snake=#434061&color_dots=#00000000,#A81039,#BA224B,#d92959,#C92E58
+            dist/github-contribution-grid-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
