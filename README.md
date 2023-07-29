@@ -6,7 +6,7 @@
     <br><br>
     <p align="center">
         <b>I present this snake in these trying times</b>
-      <img align="center" src="https://github.com/billyeatcookies/billyeatcookies/blob/output/github-contribution-grid-snake.svg" alt="twitter/billyeatcookies" />
+      <img align="center" src="https://github.com/billyeatcookies/billyeatcookies/blob/output/github-contribution-grid-snake-billy.svg" alt="twitter/billyeatcookies" />
     </p>
     <!--img src=https://user-images.githubusercontent.com/70792552/164441644-8ccf3b0d-2431-4a0a-903b-eb2f552cbd46.png-->
 </p>
