@@ -14,7 +14,7 @@
 <details align="center">
 <summary>DON'T</summary>
     <br>
-    <img src="https://user-images.githubusercontent.com/70792552/164445125-66b2e14b-7c4e-4ddc-8d3e-c40ee6cc8d4c.gif" align="right" width="320px">
+    <img src="https://user-images.githubusercontent.com/70792552/164445125-66b2e14b-7c4e-4ddc-8d3e-c40ee6cc8d4c.gif" align="right" width="310px">
     <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
     <br>
     <p>
