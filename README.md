@@ -5,6 +5,7 @@
     <img alt="C#" src="https://img.shields.io/badge/C%23-d92959.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <br><br>
     <p align="center">
+        <b>I present this snake in these trying times</b>
       <img align="center" src="https://github.com/billyeatcookies/billyeatcookies/blob/output/github-contribution-grid-snake.svg" alt="twitter/billyeatcookies" />
     </p>
     <!--img src=https://user-images.githubusercontent.com/70792552/164441644-8ccf3b0d-2431-4a0a-903b-eb2f552cbd46.png-->
@@ -32,7 +33,7 @@
     </a>
     <a href="https://discord.gg/zAHR4dFFJ8">
       <img alt="Spotify" src="https://img.shields.io/badge/Spotify-d92959.svg?style=for-the-badge&logo=spotify&logoColor=white">
-    </a><br> 
+    </a><br>
     <p align="center">
         <a href="https://github.com/billyeatcookies" target="_blank">
             <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=billyeatcookies&show_icons=true&hide_border=true&bg_color=2e2751&text_color=d92959&title_color=d92959&icon_color=d92959&border_radius=0" height=180/>
