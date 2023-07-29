@@ -11,17 +11,17 @@
 </p>
 
 <details align="center">
-<summary>...</summary>
+<summary>DON'T</summary>
     <br>
     <img src="https://user-images.githubusercontent.com/70792552/164445125-66b2e14b-7c4e-4ddc-8d3e-c40ee6cc8d4c.gif" align="right" width="500px">
     <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
     <br>
     <p>
-      Yo! billy here 👋 <br> programmer, somewhat weird artist, etc. <br>
-      cookies are a weakness 🙄
-      <br>
-      Big doraemon fan 🚶 bit of anime fan -- romatic and emotional ones 🤧
-      Fav artists are bieber, tate and troye sivan. Blackpink <3
+      Yo! billy here, I love cookies ❤ <br><br>
+      A goddamn passionate self-taught programmer 👨‍💻 <br>
+      <a href=https://www.instagram.com/billyeatcookies>A weird pencil artist</a>, and a CS student, etc. <br><br>
+      Love for all studio ghibli films, they best 🤧 <br>
+      Listens to justin bieber, troye sivan, claire rosinkranz
     </p>
     <br>
     <a href="https://billyeatcookies.itch.io">
