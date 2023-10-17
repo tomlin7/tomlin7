@@ -12,17 +12,16 @@
 </p>
 
 <details align="center">
-<summary>DON'T</summary>
+<summary>peek</summary>
     <br>
-    <img src="https://user-images.githubusercontent.com/70792552/164445125-66b2e14b-7c4e-4ddc-8d3e-c40ee6cc8d4c.gif" align="right" width="310px">
     <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
     <br>
     <p>
-      Yo! billy here, I love cookies ❤ <br><br>
-      A goddamn passionate self-taught programmer 👨‍💻 <br>
-      <a href=https://www.instagram.com/billyeatcookies>A weird pencil artist</a>, and a CS student, etc. <br><br>
-      Love for all studio ghibli films, they best 🤧 <br>
-      Listens to justin bieber, troye sivan, claire rosinkranz
+      <b>Yo!</b><br><br>
+      I'm a goddamn passionate self-taught programmer 👨‍💻 <br>
+      <a href=https://www.instagram.com/billyeatcookies>a weird pencil artist</a>, and a CS student, etc. <br><br>
+      I love all studio ghibli films<br>
+      listening to olivia rodrigo and conan grey most of the time
     </p>
     <br>
     <a href="https://billyeatcookies.itch.io">
