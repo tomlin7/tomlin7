@@ -13,26 +13,39 @@ const App = () => {
     'Functionality 3': [],
     'Code Quality': []
   });
+  const [historicalProblems, setHistoricalProblems] = useState({
+    Design: [],
+    'Functionality 1': [],
+    'Functionality 2': [],
+    'Functionality 3': [],
+    'Code Quality': []
+  });
 
   useEffect(() => {
     const loadedProblems = loadProblems();
     if (loadedProblems) {
-      setProblems(loadedProblems.visibleProblems);
+      setProblems(loadedProblems.problems);
+      setHistoricalProblems(loadedProblems.historicalProblems);
     }
   }, []);
 
   const handleAddProblem = (section, problem) => {
     setProblems(prevProblems => {
       const newProblems = { ...prevProblems, [section]: [...new Set([...prevProblems[section], problem])] };
-      saveProblems(newProblems);
+      saveProblems(newProblems, historicalProblems);
       return newProblems;
+    });
+    setHistoricalProblems(prevHistoricalProblems => {
+      const newHistoricalProblems = { ...prevHistoricalProblems, [section]: [...new Set([...prevHistoricalProblems[section], problem])] };
+      saveProblems(problems, newHistoricalProblems);
+      return newHistoricalProblems;
     });
   };
 
   const handleRemoveProblem = (section, index) => {
     setProblems(prevProblems => {
       const newProblems = { ...prevProblems, [section]: prevProblems[section].filter((_, i) => i !== index) };
-      saveProblems(newProblems);
+      saveProblems(newProblems, historicalProblems);
       return newProblems;
     });
   };
@@ -40,7 +53,7 @@ const App = () => {
   const handleClearSection = (section) => {
     setProblems(prevProblems => {
       const newProblems = { ...prevProblems, [section]: [] };
-      saveProblems(newProblems);
+      saveProblems(newProblems, historicalProblems);
       return newProblems;
     });
   };
@@ -54,7 +67,7 @@ const App = () => {
       'Code Quality': []
     };
     setProblems(newProblems);
-    saveProblems(newProblems);
+    saveProblems(newProblems, historicalProblems);
   };
 
   const handleCopy = () => {

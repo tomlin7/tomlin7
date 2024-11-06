@@ -1,31 +1,27 @@
-export const saveProblems = (problems) => {
+export const saveProblems = (problems, historicalProblems) => {
   const uniqueProblems = {};
-  const historicalProblems = JSON.parse(localStorage.getItem('historicalProblems')) || {};
-
+  const uniqueHistoricalProblems = {};
   for (const section in problems) {
     uniqueProblems[section] = [...new Set(problems[section])];
-    historicalProblems[section] = [...new Set([...(historicalProblems[section] || []), ...problems[section]])];
   }
-
-  localStorage.setItem('problems', JSON.stringify(uniqueProblems));
-  localStorage.setItem('historicalProblems', JSON.stringify(historicalProblems));
+  for (const section in historicalProblems) {
+    uniqueHistoricalProblems[section] = [...new Set(historicalProblems[section])];
+  }
+  localStorage.setItem('problems', JSON.stringify({ problems: uniqueProblems, historicalProblems: uniqueHistoricalProblems }));
 };
 
 export const loadProblems = () => {
   const problems = localStorage.getItem('problems');
-  const historicalProblems = localStorage.getItem('historicalProblems');
-
   if (!problems) return null;
 
   const parsedProblems = JSON.parse(problems);
-  const parsedHistoricalProblems = historicalProblems ? JSON.parse(historicalProblems) : {};
   const uniqueProblems = {};
   const uniqueHistoricalProblems = {};
-
-  for (const section in parsedProblems) {
-    uniqueProblems[section] = [...new Set(parsedProblems[section])];
-    uniqueHistoricalProblems[section] = [...new Set(parsedHistoricalProblems[section] || [])];
+  for (const section in parsedProblems.problems) {
+    uniqueProblems[section] = [...new Set(parsedProblems.problems[section])];
   }
-
-  return { visibleProblems: uniqueProblems, historicalProblems: uniqueHistoricalProblems };
+  for (const section in parsedProblems.historicalProblems) {
+    uniqueHistoricalProblems[section] = [...new Set(parsedProblems.historicalProblems[section])];
+  }
+  return { problems: uniqueProblems, historicalProblems: uniqueHistoricalProblems };
 };
