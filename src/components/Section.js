@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { TextField, Button, List, ListItem, ListItemText, IconButton } from '@material-ui/core';
-import { Autocomplete } from '@material-ui/lab';
-import DeleteIcon from '@material-ui/icons/Delete';
+import { TextField, Button, List, ListItem, ListItemText, IconButton } from '@mui/material';
+import Autocomplete from '@mui/material/Autocomplete';
+import ClearIcon from '@mui/icons-material/Clear';
 
 const Section = ({ section, problems, onAddProblem, onRemoveProblem, onClearSection }) => {
   const [inputValue, setInputValue] = useState('');
@@ -21,7 +21,7 @@ const Section = ({ section, problems, onAddProblem, onRemoveProblem, onClearSect
           <ListItem key={index}>
             <ListItemText primary={problem} />
             <IconButton edge="end" aria-label="delete" onClick={() => onRemoveProblem(section, index)}>
-              <DeleteIcon />
+              <ClearIcon />
             </IconButton>
           </ListItem>
         ))}

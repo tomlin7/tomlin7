@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { Container, TextField, Button, List, ListItem, ListItemText, IconButton } from '@material-ui/core';
-import { Autocomplete } from '@material-ui/lab';
-import DeleteIcon from '@material-ui/icons/Delete';
+import { Container } from '@mui/system';
+import { Button } from '@mui/material';
 import { saveProblems, loadProblems } from './utils/localStorage';
 import Section from './components/Section';
 

@@ -1,36 +1,70 @@
-<p align="center">
-    <br><br>
-    <img alt="Python" src="https://img.shields.io/badge/Python-d92959.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="C++" src="https://img.shields.io/badge/C++-414574.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-d92959.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-    <img alt="C#" src="https://img.shields.io/badge/C%23-414574.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img alt="Dart" src="https://img.shields.io/badge/Dart-d92959.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-    <br><br>
-    <p align="center">
-        <b>I present this snake in these trying times</b>
-      <img align="center" src="https://github.com/tomlin7/tomlin7/blob/output/github-contribution-grid-snake-billy.svg" alt="twitter/tomlin7" />
-    </p>
-    <!--img src=https://user-images.githubusercontent.com/70792552/164441644-8ccf3b0d-2431-4a0a-903b-eb2f552cbd46.png-->
-</p>
+# Getting Started with Create React App
 
-<details align="center">
-<summary>about</summary>
-    <br>
-    <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
-    <br>
-    <p>
-      <b>Yo!</b>
-      I appear as a compiler dev ☕! <br>
-      Mostly... but also have other forms like gamedev, osdev, <a href=https://www.instagram.com/tomlin7>weird pencil artist</a>, a CS student, etc. <br><br>
-      <b>Oh and I love anything Studio Ghibli!</b><br>
-      <sub>(no specific reason to write that here)</sub>
-    </p>
-    <br>
-    <a href="https://tomlin7.itch.io"><img src="https://img.shields.io/badge/Itch%20-d92959.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"></a>
-    <a href="https://twitter.com/tomlin7"><img src="https://img.shields.io/badge/Twitter-414574.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-    <a href="https://open.spotify.com/user/8sqr1p3xjg3hxh7kzl94vfwdz"><img src="https://img.shields.io/badge/Spotify-d92959.svg?style=for-the-badge&logo=spotify&logoColor=white"></a><br>
-    <p align="center">
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=tomlin7&show_icons=true&hide_border=true&bg_color=2e2751&text_color=d92959&title_color=d92959&icon_color=d92959&border_radius=0" height=180/>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomlin7&layout=compact&show_icons=true&hide_border=true&bg_color=2e2751&text_color=9092AB&title_color=d92959&icon_color=d92959&border_radius=0" height=180/>
-    </p>
-</details>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
