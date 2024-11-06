@@ -17,7 +17,7 @@ const App = () => {
   useEffect(() => {
     const loadedProblems = loadProblems();
     if (loadedProblems) {
-      setProblems(loadedProblems);
+      setProblems(loadedProblems.visibleProblems);
     }
   }, []);
 
