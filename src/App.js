@@ -23,7 +23,7 @@ const App = () => {
 
   const handleAddProblem = (section, problem) => {
     setProblems(prevProblems => {
-      const newProblems = { ...prevProblems, [section]: [...prevProblems[section], problem] };
+      const newProblems = { ...prevProblems, [section]: [...new Set([...prevProblems[section], problem])] };
       saveProblems(newProblems);
       return newProblems;
     });

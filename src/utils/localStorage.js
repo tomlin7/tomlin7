@@ -1,8 +1,19 @@
 export const saveProblems = (problems) => {
-  localStorage.setItem('problems', JSON.stringify(problems));
+  const uniqueProblems = {};
+  for (const section in problems) {
+    uniqueProblems[section] = [...new Set(problems[section])];
+  }
+  localStorage.setItem('problems', JSON.stringify(uniqueProblems));
 };
 
 export const loadProblems = () => {
   const problems = localStorage.getItem('problems');
-  return problems ? JSON.parse(problems) : null;
+  if (!problems) return null;
+
+  const parsedProblems = JSON.parse(problems);
+  const uniqueProblems = {};
+  for (const section in parsedProblems) {
+    uniqueProblems[section] = [...new Set(parsedProblems[section])];
+  }
+  return uniqueProblems;
 };

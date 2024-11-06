@@ -7,7 +7,7 @@ const Section = ({ section, problems, onAddProblem, onRemoveProblem, onClearSect
   const [inputValue, setInputValue] = useState('');
 
   const handleAddProblem = () => {
-    if (inputValue.trim() !== '') {
+    if (inputValue.trim() !== '' && !problems.includes(inputValue)) {
       onAddProblem(section, inputValue);
       setInputValue('');
     }
