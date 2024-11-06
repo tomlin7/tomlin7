@@ -24,7 +24,6 @@ const App = () => {
   useEffect(() => {
     const loadedProblems = loadProblems();
     if (loadedProblems) {
-      setProblems(loadedProblems.problems);
       setHistoricalProblems(loadedProblems.historicalProblems);
     }
   }, []);
@@ -32,12 +31,11 @@ const App = () => {
   const handleAddProblem = (section, problem) => {
     setProblems(prevProblems => {
       const newProblems = { ...prevProblems, [section]: [...new Set([...prevProblems[section], problem])] };
-      saveProblems(newProblems, historicalProblems);
       return newProblems;
     });
     setHistoricalProblems(prevHistoricalProblems => {
       const newHistoricalProblems = { ...prevHistoricalProblems, [section]: [...new Set([...prevHistoricalProblems[section], problem])] };
-      saveProblems(problems, newHistoricalProblems);
+      saveProblems(newHistoricalProblems);
       return newHistoricalProblems;
     });
   };
@@ -45,7 +43,6 @@ const App = () => {
   const handleRemoveProblem = (section, index) => {
     setProblems(prevProblems => {
       const newProblems = { ...prevProblems, [section]: prevProblems[section].filter((_, i) => i !== index) };
-      saveProblems(newProblems, historicalProblems);
       return newProblems;
     });
   };
@@ -53,7 +50,6 @@ const App = () => {
   const handleClearSection = (section) => {
     setProblems(prevProblems => {
       const newProblems = { ...prevProblems, [section]: [] };
-      saveProblems(newProblems, historicalProblems);
       return newProblems;
     });
   };
@@ -67,7 +63,6 @@ const App = () => {
       'Code Quality': []
     };
     setProblems(newProblems);
-    saveProblems(newProblems, historicalProblems);
   };
 
   const handleCopy = () => {
