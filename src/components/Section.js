@@ -1,10 +1,19 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { TextField, Button, List, ListItem, ListItemText, IconButton, Paper, Typography } from '@mui/material';
 import Autocomplete from '@mui/material/Autocomplete';
 import ClearIcon from '@mui/icons-material/Clear';
+import { loadProblems } from '../utils/localStorage';
 
 const Section = ({ section, problems, onAddProblem, onRemoveProblem, onClearSection }) => {
   const [inputValue, setInputValue] = useState('');
+  const [historicalProblems, setHistoricalProblems] = useState([]);
+
+  useEffect(() => {
+    const loadedProblems = loadProblems();
+    if (loadedProblems) {
+      setHistoricalProblems(loadedProblems.historicalProblems[section] || []);
+    }
+  }, [section]);
 
   const handleAddProblem = () => {
     if (inputValue.trim() !== '' && !problems.includes(inputValue)) {
@@ -30,7 +39,7 @@ const Section = ({ section, problems, onAddProblem, onRemoveProblem, onClearSect
       </List>
       <Autocomplete
         freeSolo
-        options={problems}
+        options={historicalProblems}
         inputValue={inputValue}
         onInputChange={(event, newInputValue) => setInputValue(newInputValue)}
         renderInput={(params) => (
