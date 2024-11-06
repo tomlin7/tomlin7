@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { TextField, Button, List, ListItem, ListItemText, IconButton } from '@mui/material';
+import { TextField, Button, List, ListItem, ListItemText, IconButton, Paper, Typography } from '@mui/material';
 import Autocomplete from '@mui/material/Autocomplete';
 import ClearIcon from '@mui/icons-material/Clear';
 
@@ -14,11 +14,13 @@ const Section = ({ section, problems, onAddProblem, onRemoveProblem, onClearSect
   };
 
   return (
-    <div>
-      <h2>{section}</h2>
+    <Paper elevation={3} style={{ padding: '20px', marginBottom: '20px' }}>
+      <Typography variant="h6" gutterBottom>
+        {section}
+      </Typography>
       <List>
         {problems.map((problem, index) => (
-          <ListItem key={index}>
+          <ListItem key={index} style={{ paddingLeft: '0px' }}>
             <ListItemText primary={problem} />
             <IconButton edge="end" aria-label="delete" onClick={() => onRemoveProblem(section, index)}>
               <ClearIcon />
@@ -45,9 +47,11 @@ const Section = ({ section, problems, onAddProblem, onRemoveProblem, onClearSect
           />
         )}
       />
-      <Button variant="contained" color="primary" onClick={handleAddProblem}>Add</Button>
-      <Button variant="contained" color="secondary" onClick={() => onClearSection(section)}>Clear</Button>
-    </div>
+      <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '10px' }}>
+        <Button variant="contained" color="primary" onClick={handleAddProblem}>Add</Button>
+        <Button variant="contained" color="secondary" onClick={() => onClearSection(section)}>Clear</Button>
+      </div>
+    </Paper>
   );
 };
 

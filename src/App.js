@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Container } from '@mui/system';
+import { Container, Grid, Typography } from '@mui/material';
 import { Button } from '@mui/material';
 import { saveProblems, loadProblems } from './utils/localStorage';
 import Section from './components/Section';
@@ -64,18 +64,30 @@ const App = () => {
 
   return (
     <Container>
-      {sections.map(section => (
-        <Section
-          key={section}
-          section={section}
-          problems={problems[section]}
-          onAddProblem={handleAddProblem}
-          onRemoveProblem={handleRemoveProblem}
-          onClearSection={handleClearSection}
-        />
-      ))}
-      <Button variant="contained" color="secondary" onClick={handleClearAll}>Clear All</Button>
-      <Button variant="contained" color="primary" onClick={handleCopy}>Copy</Button>
+      <Typography variant="h4" gutterBottom>
+        Problem List
+      </Typography>
+      <Grid container spacing={3}>
+        {sections.map(section => (
+          <Grid item xs={12} md={6} key={section}>
+            <Section
+              section={section}
+              problems={problems[section]}
+              onAddProblem={handleAddProblem}
+              onRemoveProblem={handleRemoveProblem}
+              onClearSection={handleClearSection}
+            />
+          </Grid>
+        ))}
+      </Grid>
+      <Grid container spacing={2} justifyContent="center" style={{ marginTop: '20px' }}>
+        <Grid item>
+          <Button variant="contained" color="secondary" onClick={handleClearAll}>Clear All</Button>
+        </Grid>
+        <Grid item>
+          <Button variant="contained" color="primary" onClick={handleCopy}>Copy</Button>
+        </Grid>
+      </Grid>
     </Container>
   );
 };
