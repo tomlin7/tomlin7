@@ -21,7 +21,7 @@
     <p>
       <b>Yo!</b>
       I appear as a compiler dev ☕! <br>
-      Mostly... but also have other forms like gamedev, osdev, <a href=https://www.instagram.com/tomlin7>weird pencil artist</a>, a CS student, etc. <br><br>
+      Mostly... but also have other forms like gamedev, osdev, <a href=https://www.instagram.com/billyeatcookies>weird pencil artist</a>, a CS student, etc. <br><br>
       <b>Oh and I love anything Studio Ghibli!</b><br>
       <sub>(no specific reason to write that here)</sub>
     </p>
