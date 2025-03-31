@@ -15,7 +15,12 @@
     ——————<br>
     <p align="center">
         <b>I present this cool snake in these trying times</b>
-      <img align="center" src="https://github.com/tomlin7/tomlin7/blob/output/github-contribution-grid-snake-billy.svg" alt="twitter/tomlin7" /><br><br>    
+      <img align="center" src="https://github.com/tomlin7/tomlin7/blob/output/github-contribution-grid-snake-billy.svg" alt="twitter/tomlin7" /><br>
+    </p>
+</p>
+<details align="center">
+<summary><i>Read more...</i></summary>
+    <p><br>
     <img alt="Python" src="https://img.shields.io/badge/Python-d92959.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="Rust" src="https://img.shields.io/badge/Rust-414574.svg?style=for-the-badge&logo=rust&logoColor=white"/>
     <img alt="Go" src="https://img.shields.io/badge/Go-d92959.svg?style=for-the-badge&logo=go&logoColor=white"/>
@@ -34,4 +39,4 @@
         <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=tomlin7&show_icons=true&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=e6de45&border_radius=0" height=180/>
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomlin7&layout=compact&show_icons=true&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=e6de45&border_radius=0" height=180/>
     </p>
-</p>
+</details>
