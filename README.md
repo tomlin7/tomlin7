@@ -3,7 +3,7 @@
         <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
         <br> -->
     <b>Yo!</b>
-    I appear as a programmer ☕ —— an ethereal entity caught between existential dread and the pursuit of perfect syntax; in this grand tapestry of 0s and 1s, I strive not for mere functionality but a deeper understanding of why my vscode always crashes at 3 AM.<br>
+    I appear as a programmer ☕<br>
     ——————<br>
     I assume various forms in this mortal coil: full-stack dev, gamedev, compiler dev, OS dev, and on occasion, <a href=https://www.instagram.com/billyeatcookies>weird pencil artist</a>. A CS student by day, and, well, also by night—because code, much like time, is an illusion that transcends traditional boundaries.<br><br>
     <b>And yes, I love Studio Ghibli films!</b><br>
