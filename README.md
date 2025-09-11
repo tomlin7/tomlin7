@@ -5,10 +5,7 @@
     <b>Yo!</b>
     I appear as a programmer ☕<br>
     ——————<br>
-    I assume various forms in this mortal coil: full-stack dev, gamedev, compiler dev, OS dev, and on occasion, <a href=https://www.instagram.com/billyeatcookies>weird pencil artist</a>. A CS student by day, and, well, also by night—because code, much like time, is an illusion that transcends traditional boundaries.<br><br>
-    <b>And yes, I love Studio Ghibli films!</b><br>
-    <sub>(Though, in truth, no noble cause drives me to share this, save for a brief indulgence in whimsy.)</sub>
-    <br><br>
+    I assume various forms in this mortal coil: full-stack dev, gamedev, compiler dev, OS dev, and on occasion: <a href=https://www.instagram.com/billyeatcookies>a pencil artist</a>. A CS student by day, and, well, also by night—because code, much like time, is an illusion that transcends traditional boundaries.<br><br>
     <a href="https://billyeatcookies.itch.io"><img src="https://img.shields.io/badge/Itch%20-000000.svg?&style=for-the-badge&logo=itchdotio&logoColor=FA5C5C"></a>
     <a href="https://medium.com/@tom_lin"><img src="https://img.shields.io/badge/Medium-ffffff.svg?style=for-the-badge&logo=medium&logoColor=black"></a>
     <a href="https://open.spotify.com/user/8sqr1p3xjg3hxh7kzl94vfwdz"><img src="https://img.shields.io/badge/Spotify-000000.svg?style=for-the-badge&logo=spotify&logoColor=1ED760"></a><br>
@@ -19,7 +16,7 @@
     </p>
 </p>
 <details align="center">
-<summary><i>Read more...</i></summary>
+<summary><i>What I Can Do...</i></summary>
     <p><br>
     <img alt="Python" src="https://img.shields.io/badge/Python-d92959.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="Rust" src="https://img.shields.io/badge/Rust-414574.svg?style=for-the-badge&logo=rust&logoColor=white"/>
