@@ -1,4 +1,6 @@
-
+<img width="1500" height="410" alt="banner" src="https://github.com/user-attachments/assets/1bda1e88-66ea-48c3-8eeb-0118befd67d9" />
+<br>
+<br>
 <b>Hey there!</b><br>
 I'm a Software Engineer ☕<br>
 ————————————<br>
