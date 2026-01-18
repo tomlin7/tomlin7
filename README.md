@@ -6,7 +6,7 @@ Software Engineer // Systems • Graphics • Full-Stack<br>
 `»` I care about performance, clean architecture, and understanding how things actually work under the hood.<br>
 `»` I, occasionally, log out and pick up a pencil 🎨<br>
 <br>
-<a href="https://billyeatcookies.itch.io"><img src="https://img.shields.io/badge/Itch%20-000000.svg?&style=for-the-badge&logo=itchdotio&logoColor=FA5C5C"></a>
+<a href="https://billyeatcookies.itch.io"><img src="https://img.shields.io/badge/Itch-%23000000.svg?&style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 <a href="https://medium.com/@tom_lin"><img src="https://img.shields.io/badge/Medium-ffffff.svg?style=for-the-badge&logo=medium&logoColor=black"></a><br>
 ————————————<br>
 <p align="left">
@@ -37,7 +37,7 @@ Software Engineer // Systems • Graphics • Full-Stack<br>
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 ————————————<br>
-<b>↘ I present this cool snake in these trying times</b>
+<b><code>↘</code> I present this cool snake in these trying times</b>
 <p align="center">
 <img align="center" src="https://github.com/tomlin7/tomlin7/blob/output/github-contribution-grid-snake-billy.svg" alt="twitter/tomlin7" /><br>
 </p>
