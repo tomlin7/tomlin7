@@ -4,10 +4,11 @@ Software Engineer // Systems • Graphics • Full-Stack<br>
 `»` I'm focused on building things close to the metal and shipping real products.<br>
 `»` I work on [game engines](https://github.com/tomlin7/Ember), [sophisticated code editors](https://github.com/tomlin7/biscuit), [compilers](https://github.com/tomlin7/lemon) to scalable backend services and production web apps. <br>
 `»` I care about performance, clean architecture, and understanding how things actually work under the hood.<br>
-`»` I, occasionally, log out and pick up a pencil 🎨<br>
+`»` Occasionally, I log out and pick up a pencil 🎨<br>
 <br>
 <a href="https://billyeatcookies.itch.io"><img src="https://img.shields.io/badge/Itch-%23000000.svg?&style=for-the-badge&logo=itchdotio&logoColor=white"></a>
-<a href="https://medium.com/@tom_lin"><img src="https://img.shields.io/badge/Medium-ffffff.svg?style=for-the-badge&logo=medium&logoColor=black"></a><br>
+<a href="https://medium.com/@tom_lin"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://tomlin7.com"><img src="https://img.shields.io/badge/visit%20portfolio%20%E2%96%B2-ffffff.svg?&style=for-the-badge"></a><br>
 ————————————<br>
 <p align="left">
     <img src="https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
