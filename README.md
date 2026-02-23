@@ -1,15 +1,17 @@
-<b>Hey, I'm @tomlin7!</b><br>
-Software Engineer // Systems • Graphics • Full-Stack<br>
-————————————————————————<br>
-`»` I'm focused on building things close to the metal and shipping real products.<br>
-`»` I work on [game engines](https://github.com/tomlin7/Ember), [sophisticated code editors](https://github.com/tomlin7/biscuit), [compilers](https://github.com/tomlin7/lemon) to scalable backend services and production web apps. <br>
-`»` I care about performance, clean architecture, and understanding how things actually work under the hood.<br>
-`»` Occasionally, I log out and pick up a pencil 🎨<br>
+<img src="./monocard.svg">
+
+<b>HEY, i'm `@tomlin7`!</b><br>
+software engineer // systems • graphics • full-stack<br>
+———————————————————————<br>
+`»` i'm focused on building things close to the metal and shipping real products.<br>
+`»` i work on game engines <sup>[[1]](https://github.com/tomlin7/Ember)</sup>, rendering <sup>[[2]](https://github.com/tomlin7/shader-editor)</sup>, sophisticated agentic code editors <sup>[[3]](https://github.com/ted-industries/ted) [[4]](https://github.com/tomlin7/biscuit)</sup> and devtools <sup>[[5]](https://github.com/tomlin7/hypercode) [[6]](https://github.com/tomlin7/debug-adapter-protocol)</sup>, compilers <sup>[[7]](https://github.com/tomlin7/lemon) [[8]](https://github.com/tomlin7/kale) [[9]](https://github.com/tomlin7/kookie)</sup>, [games](https://billyeatcookies.itch.io), to scalable backend services and production web apps. <br>
+`»` i care about performance, clean architecture, and understanding how things actually work under the hood.<br>
+`»` occasionally, i log out and pick up a pencil 🎨<br>
 <br>
 <a href="https://billyeatcookies.itch.io"><img src="https://img.shields.io/badge/Itch-%23000000.svg?&style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 <a href="https://medium.com/@tom_lin"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://tomlin7.com"><img src="https://img.shields.io/badge/visit%20portfolio%20%E2%96%B2-ffffff.svg?&style=for-the-badge"></a><br>
-————————————<br>
+—————————————————————<br>
 <p align="left">
     <img src="https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -37,15 +39,22 @@ Software Engineer // Systems • Graphics • Full-Stack<br>
     <img src="https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
-————————————<br>
-<b><code>↘</code> I present this cool snake in these trying times</b>
+<b><code>↘</code> i present this cool snake in these trying times</b>
 <p align="center">
 <img align="center" src="https://github.com/tomlin7/tomlin7/blob/output/github-contribution-grid-snake-billy.svg" alt="twitter/tomlin7" /><br>
 </p>
-<details align="center" >
-<summary align="center" ><b><code>SEE MORE STATS</code></b></summary>
+
+<details >
+<summary ><b><code>see some unhealthy stats</code></b></summary>
     <br>
-    <h3><code>MORE SKILLS</code></h3>
+    <h4>stats</h4>
+    <p  align="center">
+        <img alt="" src="https://github-readme-stats.vercel.app/api?username=tomlin7&show_icons=true&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_radius=0" height=180/>
+<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomlin7&layout=compact&show_icons=true&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_radius=0&hide=css,html,c,javascript,jupyter-notebook" height=180/>
+        <br>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=tomlin7&theme=telegram&hide_border=true&border_radius=0&stroke=EBEBEB&background=000000&sideLabels=FFFFFF&currStreakLabel=EBEBEB&ring=EBEBEB&currStreakNum=EBEBEB&dates=EBEBEB&sideNums=EBEBEB&excludeDaysLabel=EBEBEB&fire=EBEBEB" height=180 />
+    </p>
+    <h4>more skills</h4>
     <p align="left">
         <br>
         <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -68,11 +77,6 @@ Software Engineer // Systems • Graphics • Full-Stack<br>
         <img src="https://img.shields.io/badge/redis-%23000000.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
         <img src="https://img.shields.io/badge/GODOT-%23000000.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine" />
     </p>
-    <h3><code>STATS</code></h3>
-    <p>
-        <img alt="" src="https://github-readme-stats.vercel.app/api?username=tomlin7&show_icons=true&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_radius=0" height=180/>
-<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomlin7&layout=compact&show_icons=true&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_radius=0&hide=css,html,c,javascript,jupyter-notebook" height=180/>
-        <br>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=tomlin7&theme=telegram&hide_border=true&border_radius=0&stroke=EBEBEB&background=000000&sideLabels=FFFFFF&currStreakLabel=EBEBEB&ring=EBEBEB&currStreakNum=EBEBEB&dates=EBEBEB&sideNums=EBEBEB&excludeDaysLabel=EBEBEB&fire=EBEBEB" height=180 />
-    </p>
 </details>
+
+<sub>thanks for visiting xoxo. svg generated by [monocard](monocard.tomlin7.com).</sub>
