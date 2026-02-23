@@ -49,7 +49,7 @@
   </defs>
 
   <!-- Background -->
-  <rect width="600" height="350" fill="#000" rx="16"/>
+  <rect width="600" height="300" fill="#000" rx="16"/>
   <pattern id="gridDots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
     <circle cx="1" cy="1" r="0.6" fill="#1A1A1A"/>
   </pattern>
