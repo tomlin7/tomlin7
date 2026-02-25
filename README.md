@@ -4,7 +4,8 @@
 software engineer // systems • graphics • full-stack<br>
 ———————————————————————<br>
 `»` i'm focused on building things close to the metal and shipping real products.<br>
-`»` i work on game engines <sup>[[1]](https://github.com/tomlin7/Ember)</sup>, rendering <sup>[[2]](https://github.com/tomlin7/shader-editor)</sup>, sophisticated agentic code editors <sup>[[3]](https://github.com/ted-industries/ted) [[4]](https://github.com/tomlin7/biscuit)</sup> and devtools <sup>[[5]](https://github.com/tomlin7/hypercode) [[6]](https://github.com/tomlin7/debug-adapter-protocol)</sup>, compilers <sup>[[7]](https://github.com/tomlin7/lemon) [[8]](https://github.com/tomlin7/kale) [[9]](https://github.com/tomlin7/kookie)</sup>, [games](https://billyeatcookies.itch.io), to scalable backend services and production web apps. <br>
+`»` i'm currently working on [ted.sh](https://www.t3d.sh)<br>
+`»` i work on sophisticated agentic code editors <sup>[[1]](https://github.com/ted-industries/ted) [[2]](https://github.com/tomlin7/biscuit)</sup> and devtools <sup>[[3]](https://github.com/tomlin7/hypercode) [[4]](https://github.com/tomlin7/debug-adapter-protocol)</sup>, game engines <sup>[[5]](https://github.com/tomlin7/Ember)</sup>, rendering <sup>[[6]](https://github.com/tomlin7/shader-editor)</sup>, compilers <sup>[[7]](https://github.com/tomlin7/lemon) [[8]](https://github.com/tomlin7/kale) [[9]](https://github.com/tomlin7/kookie)</sup>, [games](https://billyeatcookies.itch.io), to scalable backend services and production web apps. <br>
 `»` i care about performance, clean architecture, and understanding how things actually work under the hood.<br>
 `»` occasionally, i log out and pick up a pencil 🎨<br>
 <br>
