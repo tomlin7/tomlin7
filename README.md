@@ -1,30 +1,10 @@
-<b>Hey, i'm dheeraj (`@tomlin7`)!</b><br>
-software engineer, a CS student<br>
+<b>hey, i'm dheeraj</b><br>
+an aspiring software engineer, a CS student<br>
 ——————————————<br>
+`»` creator of [biscuit](https://biscuit.tomlin7.com) <br>
 `»` curiosity drives me. here to put a dent in the universe. <br>
-`»` i like sketching and football 🎨⚽<br>
-`»` hobbies: building developer tooling, AI agents, shaders, compilers, and [gamedev](https://billyeatcookies.itch.io). <br>
+`»` hobbies: building devtools for myself, agents, shaders, graphics, compilers, gamedev <br>
 `»` mail: <code>hello@tomlin7.com</code> <br>
-<br>
-<a href="https://billyeatcookies.itch.io"><img src="https://img.shields.io/badge/Itch-%23000000.svg?&style=for-the-badge&logo=itchdotio&logoColor=white"></a>
-<a href="https://medium.com/@tom_lin"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://tomlin7.com"><img src="https://img.shields.io/badge/portfolio%20%E2%96%B2-ffffff.svg?&style=for-the-badge"></a><br>
-<a href="https://linkedin.com/in/initdhee"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/tomfricks"><img src="https://img.shields.io/badge/%40tomfricks-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://tomlin7.com/resume"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a><br>
-—————————————————————<br>
-
-## Current Projects
-
-- 🍪 **[Biscuit](https://biscuit.tomlin7.com)** (250+ stars) - fast, extensible, native code editor with AI
-- 🧁 **[Cupcake](https://cupcake.tomlin7.com)** (30+ stars) - embeddable feature-rich code editor widget
-- 🚀 **[Ember](https://github.com/tomlin7/Ember)** (15+ stars) - Game Engine
-- 📐 **[Elo](https://github.com/tomlin7/elo)** - mental math competitive mobile platform
-- 🀄 **[Hiroshi](https://github.com/hiroshi-os/hiroshi)** - AI that can actually do things
-- 🧭 **[Hypr](https://github.com/hiroshi-os/Hypr)** - coding agent that lives in your terminal
-- 🧭 **[Logicarium](https://github.com/hiroshi-os/Hypr)** - coding agent that lives in your terminal
-- 📜 **[KeePassDiff](https://github.com/tomlin7/KeePassDiff)** - diff/merge tool for KeePass databases
-
 
 
 
@@ -68,12 +48,99 @@ software engineer, a CS student<br>
     </table>
 </details>
 
-<details >
-<summary ><code>quote</code></summary>
-    <br>
-    <img  alt="quote" src="https://github.com/user-attachments/assets/ec1bd595-2c7e-4e75-8f87-c10f63464b12" />
-    
-![](https://komarev.com/ghpvc/?username=tomlin7)
-    
-</details>
+<a href="https://billyeatcookies.itch.io"><img src="https://img.shields.io/badge/Itch-%23000000.svg?&style=for-the-badge&logo=itchdotio&logoColor=white"></a>
+<a href="https://medium.com/@tom_lin"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://tomlin7.com"><img src="https://img.shields.io/badge/portfolio%20%E2%96%B2-ffffff.svg?&style=for-the-badge"></a><br>
+<a href="https://linkedin.com/in/initdhee"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/tomfricks"><img src="https://img.shields.io/badge/%40tomfricks-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://tomlin7.com/resume"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a><br>
+—————————————————————<br>
+
+
+
+## Start Here
+
+- 🍪 **[Biscuit](https://biscuit.tomlin7.com)** (250+ stars) - Native, extensible, AI code editor
+- 🀄 **[Hiroshi](https://github.com/hiroshi-os/hiroshi)** - AI that can actually do things
+- 🧭 **[Hypr](https://github.com/hiroshi-os/Hypr)** - Coding agent that lives in your terminal
+- 🚀 **[Hiro](https://github.com/hiroshi-os/hiro)** - Screenshots & GUI automation for agents
+- 📐 **[Elo](https://github.com/tomlin7/elo)** - Mental math competitive platform & app
+
+## Current Projects
+
+### Biscuit Core
+- 🍪 **[Biscuit](https://biscuit.tomlin7.com)** (250+ stars) - Native, extensible, AI code editor
+- 🧁 **[Cupcake](https://cupcake.tomlin7.com)** (30+ stars) - Embeddable feature-rich code editor for Python
+- 🐚 **[mono](https://github.com/tomlin7/mono)** (10+ stars) - Embeddable terminal emulator for Python
+- 🔌 **[debug-adapter-client](https://github.com/tomlin7/debug-adapter-client)** (5+ stars) - Flexible Debug Adapter Protocol (DAP) client library for code editors
+- 🧭 **[tarts](https://github.com/tomlin7/tarts)** - Flexible Language Server Protocol (LSP) client library for code editors
+- 📺 **[Biscuit95](https://github.com/hiroshi-os/biscuit-win95)** - Retro-themed fork of Biscuit powered by a Clippy
+
+### Hiroshi OS Core
+
+- 🀄 **[Hiroshi](https://github.com/hiroshi-os/hiroshi)** - AI that can actually do things
+- 🧭 **[Hypr](https://github.com/hiroshi-os/Hypr)** - coding agent that lives in your terminal
+- 🚀 **[Hiro](https://github.com/hiroshi-os/hiro)** - screenshots & GUI automation for agents
+- 📝 **[Parable](https://github.com/hiroshi-os/parable)** - Multi-agent harness, dashboard and editor
+- 🧩 **[extensions](https://github.com/hiroshi-os/extensions)** - Extension hub for Parable
+
+### Biscuit Extensions
+- 🧩 **[biscuit-extensions](https://github.com/tomlin7/biscuit-extensions)** (5+ stars) - Extension ecosystem and registry
+- 🌐 **[Biscuit Hub/Marketplace](https://github.com/biscuit-extensions/marketplace)** - Community extensions hub/marketplace website
+- 🌐 **[browser extension](https://github.com/biscuit-extensions/browser)** - Surf YouTube, Google, or any site directly inside editor
+- 🛠️ **[clangd extension](https://github.com/biscuit-extensions/clangd)** - C/C++ language server integration extension
+- 🛠️ **[rust extension](https://github.com/biscuit-extensions/rust)** - Rust analyzer server integration
+- 🛠️ **[extension](https://github.com/biscuit-extensions/extension)** - Vanilla extension template for `biscuit ext` CLI
+
+### Graphics & Compilers
+
+- 🚀 **[Ember](https://github.com/tomlin7/Ember)** (15+ stars) - Flexible modular 2D/3D game engine
+- 🍪 **[Kookie](https://github.com/tomlin7/Kookie)** (10+ stars) - Static programming language and compilation pipeline
+- 🍦 **[Lemon](https://github.com/tomlin7/lemon)** (5+ stars) - Dynamic interpreted language
+- 💿 **[BILL](https://github.com/tomlin7/BILL)** (10+ stars) - Custom x64 operating system kernel
+- 🧩 **[Logicarium](https://github.com/tomlin7/Logicarium)** (5+ stars) - Digital logic design and simulation with DSL
+- 🖥️ **[shader-editor](https://github.com/tomlin7/shader-editor)** - Native shader editor using wgpu
+- 🧬 **[Kale](https://github.com/tomlin7/Kale)** (10+ stars) - Archetypal language, experimental baseline compiler 
+
+### Desktop Applications & Developer Productivity
+
+- 💬 **[Trinity](https://github.com/tomlin7/Trinity)** - Decentralised messaging client implementing Matrix protocol
+- ⚙️ **[Positron](https://github.com/tomlin7/Positron)** - Modern desktop application framework for python (react, vue, svelte)
+- 📜 **[KeePassDiff](https://github.com/tomlin7/KeePassDiff)** (25+ stars) - Diff/Merge tool for KeePass databases
+- 💬 **[Clue](https://github.com/tomlin7/Clue)** (10+ stars) - Desktop meeting notes assistant
+- 🗄️ **[keepassdiff2](https://github.com/tomlin7/keepassdiff2)** (10+ stars) - Better diff/merge tool for KeePass databases
+
+### Agents & ML
+
+- 🔌 **[pastemyst-mcp](https://github.com/tomlin7/pastemyst-mcp)** - MCP server for pastemyst, instantly share code snippets
+- 🛒 **[S-TORE](https://github.com/tomlin7/ecommerce-chatbot)** (20+ stars) - RAG powered E-commerce platform
+- 🎙️ **[notebooklm-clone](https://github.com/tomlin7/notebooklm-clone)** - RAG, documents -> podcasts with 2 hosts
+- 🔬 **[ai-research-team](https://github.com/tomlin7/ai-research-team)** - Multi-agent autonomous research engine
+- 📂 **[AI-research-assistant](https://github.com/tomlin7/AI-research-assistant)** (5+ stars) - Research assistant using pgvector and PGAI
+- 🧠 **[eeg-transformer](https://github.com/tomlin7/eeg-transformer)** - Deep learning model mapping raw EEG data, Jin Xie et al. (2022)
+- 🎵 **[music-notes](https://github.com/tomlin7/music-notes)** - Real-time acoustic musical transcription with Fast Fourier Transforms (FFT)
+
+### Web Apps, Utilities & Services
+
+- 📐 **[Elo](https://github.com/tomlin7/elo)** - Mental math competitive platform & app
+- 🗓️ **[AoC](https://github.com/tomlin7/AoC)** (20+ stars) - Benchmarking workspace, alerts for Advent of Code
+- 🤖 **[RoboBilly](https://github.com/tomlin7/RoboBilly)** (10+ stars) - Discord bot featuring mod tools, games, etc.
+- 🎪 **[Campfire](https://github.com/tomlin7/Campfire)** - Serverless Discord clone
+- 🎨 **[Freehand](https://github.com/tomlin7/Freehand)** (5+ stars) - Lightweight Excalidraw clone
+- 🎴 **[monocard](https://github.com/tomlin7/monocard)** - Compile project presentation SVGs for GitHub README
+
+### Legacy Work
+
+- ⚡ **[HyperCode](https://github.com/hiroshi-os/hypercode)** - TUI based coding agent, opencode clone.
+- 💎 **[pastemyst-pas](https://github.com/tomlin7/pastemyst-pas)** (10+ stars) - FreePascal PasteMyst API wrapper library
+- 💎 **[pastemyst.v](https://github.com/tomlin7/pastemyst.v)** (5 stars) - V-language PasteMyst API wrapper library
+- 💎 **[pastemyst-cpp](https://github.com/tomlin7/pastemyst-cpp)** - C++ PasteMyst API wrapper library
+- 📟 **[pie](https://github.com/tomlin7/pie)** - TUI text editing application written in pure C
+- 👾 **[brownie](https://github.com/tomlin7/brownie)** - Game Boy emulator
+- 🕹️ **[crumpet](https://github.com/tomlin7/crumpet)** - CHIP-8 emulator
+- 📟 **[kernel_x64](https://github.com/tomlin7/kernel_x64)** - Early x64 kernel designed during the development of BILL OS
+- 🧁 **[muffin](https://github.com/tomlin7/muffin)** (5+ stars) - micro code editor built for python
+- 💼 **[Bagel](https://github.com/tomlin7/Bagel)** - Early prototype python compiler
+- 📶 **[leaderboard](https://github.com/tomlin7/leaderboard)** - In-memory scaling leaderboard tracking live calculations via Fenwick trees
+
 
