@@ -1,12 +1,10 @@
 <b>hey, i'm dheeraj</b><br>
 an aspiring software engineer, a CS student<br>
-——————————————<br>
-`»` creator of [biscuit](https://biscuit.tomlin7.com) <br>
-`»` curiosity drives me. here to put a dent in the universe. <br>
-`»` hobbies: building devtools for myself, agents, shaders, graphics, compilers, gamedev <br>
-`»` mail: <code>hello@tomlin7.com</code> <br>
-
-
+—————————————————————<br>
+`» quote` here to put a dent in the universe. <br>
+`» philosophy` building tools for my own problems, then sharing them with the world <br>
+`» recognition`  550+ GitHub stars across personal projects; 200+ across Biscuit projects <br>
+`» mail` <code>hello@tomlin7.com</code> <br>
 
 
 <details>
@@ -144,3 +142,14 @@ an aspiring software engineer, a CS student<br>
 - 📶 **[leaderboard](https://github.com/tomlin7/leaderboard)** - In-memory scaling leaderboard tracking live calculations via Fenwick trees
 
 
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=tomlin7&hide_border=true)
+
+## What I'm Doing
+
+- **Sharpening myself** - Building tools to improve my iteration speed
+- **Writing** - Sharing my learnings on [tomlin7.com/blog](https://tomlin7.com/blog)
+- **Prototyping** - My curiosity bursts turn into full apps in days
+- **[Contributing to OSS](https://tomlin7.com/oss)** - Solving problems for everyone
